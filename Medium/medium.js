@@ -40,3 +40,5 @@ if (month == 12) {
 else if (month > 12) {
     console.log("Invalid Number")
 }
+
+//I am sure there is a better way, but I don't know how to do it effectively just yet//
